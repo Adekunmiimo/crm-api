@@ -1,1 +1,1 @@
-a simple API using typeScript 
+a simple customer relations Management API using typeScript 
